@@ -4,11 +4,11 @@
 
 ## Flexbox:
 
-- [ ] flex-direction
-- [ ] order
+- [x] flex-direction
+- [x] order
 - [x] justify-content
 - [x] align-items
-- [ ] align-self
+- [x] align-self
 - [ ] flex-wrap
 - [ ] align-content
 - [ ] flex-grow
