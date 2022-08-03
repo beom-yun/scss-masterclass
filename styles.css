@@ -21,3 +21,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.child:nth-child(2) {
+  background: #000;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
