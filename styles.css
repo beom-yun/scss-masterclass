@@ -4,9 +4,10 @@ body {
 }
 
 .father {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  grid-template-rows: 100px 50px 300px;
+  gap: 10px;
 }
 
 .child {
@@ -17,8 +18,4 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.child:nth-child(4) {
-  margin-top: 10px;
 }
