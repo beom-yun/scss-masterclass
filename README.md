@@ -17,12 +17,13 @@
 
 ## Grid:
 
-- [ ] grid-template-columns
-- [ ] grid-template-rows
-- [ ] column-gap
-- [ ] row-gap
-- [ ] gap
-- [ ] grid-template-areas
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] column-gap
+- [x] row-gap
+- [x] gap
+- [x] grid-template-areas
+- [x] grid-area
 - [ ] grid-column-start
 - [ ] grid-column-end
 - [ ] grid-row-start
