@@ -30,7 +30,7 @@
 - [x] grid-row-end
 - [x] grid-column
 - [x] grid-row
-- [ ] grid-template
+- [x] grid-template
 - [ ] justify-items
 - [ ] align-items
 - [ ] place-items
@@ -46,8 +46,8 @@
 
 ### Keywords & Functions:
 
-- [ ] repeat
-- [ ] fr
+- [x] repeat
+- [x] fr
 - [ ] minmax
 - [ ] auto-fit
 - [ ] auto-fill
